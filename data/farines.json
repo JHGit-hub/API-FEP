@@ -1,0 +1,97 @@
+[
+    {
+        "reference": "FEP-CACT",
+        "libelle": "Farine de cactus du désert",
+        "description": "Obtenue à partir de cactus séchés et réduits en poudre, cette farine a une texture fine et un goût légèrement acidulé. Elle est riche en fibres et surprend agréablement dans les tortillas et les crackers. Un vrai voyage culinaire."
+    },
+    {
+        "reference": "FEP-CARA",
+        "libelle": "Farine de caroube chocolatée",
+        "description": "Substitut naturel au cacao, la caroube est sucrée et parfumée. Sa farine permet de réduire le sucre dans les gâteaux tout en gardant une saveur proche du chocolat. On l’utilise dans des biscuits, muffins ou boissons gourmandes."
+    },
+    {
+        "reference": "FEP-CHATA",
+        "libelle": "Farine de châtaigne ardéchoise",
+        "description": "Une farine rustique et parfumée, produite à partir de châtaignes séchées au feu de bois. Elle dégage des arômes boisés et sucrés qui subliment crêpes, gâteaux et pains spéciaux. Associée à de la farine de blé, elle donne une pâte douce et moelleuse."
+    },
+    {
+        "reference": "FEP-COCO",
+        "libelle": "Farine de coco exotique",
+        "description": "Obtenue à partir de chair de noix de coco séchée, elle est très riche en fibres. Son parfum intense apporte une touche tropicale aux desserts, smoothies et pains sucrés. À utiliser en mélange pour éviter une texture trop dense."
+    },
+    {
+        "reference": "FEP-LENT",
+        "libelle": "Farine de lentilles corail",
+        "description": "D’une belle couleur saumonée, cette farine riche en protéines végétales est parfaite pour des galettes salées, des crêpes originales ou encore pour enrichir les soupes. Elle surprend par sa saveur douce et légèrement sucrée."
+    },
+    {
+        "reference": "FEP-SPOK",
+        "libelle": "Farine de l’espace (édition Spock)",
+        "description": "Une farine verte enrichie en spiruline, pensée pour les explorateurs culinaires et les amateurs de science-fiction. Elle colore vos préparations d’une teinte inhabituelle et apporte une bonne dose de protéines et de minéraux. « Logique », comme dirait Monsieur Spock."
+    },
+    {
+        "reference": "FEP-MAIZ",
+        "libelle": "Farine de maïs ensoleillée",
+        "description": "Jaune éclatant, elle rappelle immédiatement le soleil des champs d’été. Elle ne contient pas de gluten, ce qui en fait une alliée pour épaissir des sauces ou préparer des galettes. En pâtisserie, elle apporte une texture moelleuse et une couleur lumineuse."
+    },
+    {
+        "reference": "FEP-POIS",
+        "libelle": "Farine de pois chiche méditerranéenne",
+        "description": "Utilisée dans de nombreuses cuisines traditionnelles (socca, panisses, falafels), elle apporte une saveur typée et une texture moelleuse. Riche en fibres et protéines, elle est idéale pour des recettes végétariennes et véganes."
+    },
+    {
+        "reference": "FEP-POTI",
+        "libelle": "Farine de potiron magique",
+        "description": "Une farine originale, riche en fibres et en bêta-carotène, qui colore vos préparations d’un orange éclatant. Son goût légèrement sucré en fait un ingrédient de choix pour les pains d’automne, les cakes et même les pâtes fraîches."
+    },
+    {
+        "reference": "FEP-QUIN",
+        "libelle": "Farine de quinoa royal",
+        "description": "Issue du quinoa des hauts plateaux andins, cette farine sans gluten est riche en protéines végétales et en minéraux. Sa saveur délicate et légèrement noisettée permet de varier l’alimentation, notamment dans les biscuits ou les pâtes à tarte."
+    },
+    {
+        "reference": "FEP-RIZB",
+        "libelle": "Farine de riz blanc soyeux",
+        "description": "Issue de riz poli finement, cette farine sans gluten est très digeste. Elle est parfaite pour épaissir des sauces, réaliser des gâteaux légers ou des tempuras croustillants. Sa texture soyeuse lui permet aussi d’alléger les pâtes à crêpes."
+    },
+    {
+        "reference": "FEP-RIZC",
+        "libelle": "Farine de riz complet rustique",
+        "description": "Plus riche en fibres et minéraux que la version blanche, elle apporte une note légèrement noisettée aux préparations. Elle se marie très bien avec des pains spéciaux et des biscuits diététiques."
+    },
+    {
+        "reference": "FEP-NOIR",
+        "libelle": "Farine de sarrasin bretonne",
+        "description": "Incontournable pour réaliser les galettes bretonnes, elle possède un goût franc et légèrement amer. Sans gluten, elle se marie parfaitement avec des préparations salées comme les crêpes garnies de fromageet de jambon."
+    },
+    {
+        "reference": "FEP-SORG",
+        "libelle": "Farine de sorgho doré",
+        "description": "Céréale sans gluten encore méconnue, le sorgho apporte une saveur douce et légèrement sucrée. Sa farine est idéale pour varier les préparations salées et sucrées, et s’associe parfaitement avec du maïs ou du riz."
+    },
+    {
+        "reference": "FEP-AMAN",
+        "libelle": "Farine d’amande douce",
+        "description": "Naturellement sans gluten et riche en bons lipides, cette farine donne un goût suave aux pâtisseries. Idéale pour macarons, financiers et cakes moelleux, elle permet aussi de remplacer partiellement la farine de blé dans les gâteaux classiques."
+    },
+    {
+        "reference": "FEP-HAVR",
+        "libelle": "Farine d’avoine du matin",
+        "description": "Douce et légèrement sucrée, elle se prête très bien aux préparations de petit-déjeuner comme les pancakes, les muffins ou les barres énergétiques. Son goût délicat en fait aussi une base saine pour épaissir des soupes."
+    },
+    {
+        "reference": "FEP-ORGE",
+        "libelle": "Farine d’orge maltée",
+        "description": "Légèrement sucrée et parfumée, elle est utilisée depuis des siècles dans la confection de pains et de bières. Elle donne une belle couleur dorée et une mie moelleuse aux pains spéciaux."
+    },
+    {
+        "reference": "FEP-COLR",
+        "libelle": "Farine multicolore arc-en-ciel",
+        "description": "Un mélange fantaisie de blé, maïs et betterave, qui offre des teintes surprenantes et un rendu visuel unique dans vos pains et pâtes. Parfaite pour surprendre vos invités et ajouter une touche ludique en cuisine."
+    },
+    {
+        "reference": "FEP-NUTL",
+        "libelle": "Farine noisette câline",
+        "description": "Douce et gourmande, cette farine apportera une note subtilment grillée à toutes vos pâtisseries. On l’adore dans les cookies, les muffins et les pâtes sablées. Elle peut être associée à d’autres farines pour un résultat encore plus moelleux."
+    }
+]
